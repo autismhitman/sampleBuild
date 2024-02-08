@@ -34,6 +34,7 @@
 	</dependencies>
 
 	<build>
+	     <finalName>custom-final-name</finalName>
 		<plugins>
 			<plugin>
 
